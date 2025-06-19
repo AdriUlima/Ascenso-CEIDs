@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bichito
+  m_Controller: {fileID: 9100000, guid: f76a0d1b4b15d1e43a142911d88a6043, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 921a1edf2d263f14ab78aa41d2e073e6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 87f57fac1747f5e46a9698b515dc3025, type: 2}
